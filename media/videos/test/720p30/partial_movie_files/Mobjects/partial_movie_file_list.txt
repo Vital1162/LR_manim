@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/test/720p30/partial_movie_files/Mobjects/2016333726_1708763645_223132457.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/test/720p30/partial_movie_files/Mobjects/543634251_1704852926_1699245666.mp4'

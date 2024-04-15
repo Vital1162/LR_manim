@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/1035818431_1350991035_223132457.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/675306397_2304249630_1068626715.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/675306397_3475022424_3011728008.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/675306397_2304249630_3461391462.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/3146150678_1264317456_3155502348.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/1932430663_4268215521_2519459405.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/2522235563_3239751813_2345241159.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/1079217771_2517985994_963218928.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/1079217771_2973772088_4162490929.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/1079217771_4031144588_3191695425.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/1079217771_2304249630_1491848284.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg_2/720p30/partial_movie_files/ThreeD/1079217771_1296167737_159877956.mp4'

@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg/720p30/partial_movie_files/axes_3d/2843405892_1193819843_223132457.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg/720p30/partial_movie_files/axes_3d/3749468691_2304249630_2066183796.mp4'
+file 'file:C:/Users/ADMIN/OneDrive/Máy tính/Manim/logres/media/videos/lg/720p30/partial_movie_files/axes_3d/1287287448_1264317456_2764129193.mp4'
