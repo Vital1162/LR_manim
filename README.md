@@ -1,5 +1,5 @@
 ## Logistic Regrssion
-- Manim, python
+
 
 ## Requirement:
 ```
