@@ -12,4 +12,4 @@ MikTex
 ```
 manim <file_name>.py -pqm
 ```
-get video in media file
+get the video in the media folder
